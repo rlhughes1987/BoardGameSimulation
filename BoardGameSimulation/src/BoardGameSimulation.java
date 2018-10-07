@@ -68,6 +68,8 @@ public class BoardGameSimulation {
 		
 		Mechanic.Swapsies(this.setup.getPlayer(1),this.setup.getPlayers());
 		
+		System.out.println("----------");
+		
 		
 	}
 	
